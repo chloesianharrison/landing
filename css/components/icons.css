@@ -1,0 +1,17 @@
+.icons {
+  display: flex;
+  margin: 0 auto;
+  /* padding: 10px; */
+}
+
+i {
+  font-size: 50px;
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+i:hover {
+  font-size: 60px;
+  color: rgb(171, 168, 168);
+}

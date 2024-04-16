@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .5)), url("https://source.unsplash.com/aerial-shot-of-forest-2Hzmz15wGik");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin: 0;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.banner .container h1{
+  font-size: 50px;
+  color: white;
+  text-shadow: 2px 2px rgb(56, 56, 56);;
+}
+
+.banner .container p {
+  color: rgb(187, 182, 182);
+  font-size: 30px;
+}
